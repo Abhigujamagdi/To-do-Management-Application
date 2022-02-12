@@ -1,0 +1,15 @@
+
+function LogoutComponent(){
+    return(
+        
+        <div>
+            <h1>You are logged out</h1>
+            <div className="container">
+                Thank You for using our Application.
+            </div>
+        </div>
+    )
+}
+
+
+export default LogoutComponent
